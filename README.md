@@ -48,4 +48,16 @@ Para rodar este projeto no seu computador, você precisará de um ambiente de de
 
 ---
 
-Desenvolvido com 💻 por [Seu Nome Completo] — Conecte-se comigo no [LinkedIn](SEU_LINK_DO_LINKEDIN).
+# 👨‍💻 Autor
+
+Matheus Araujo da Silva
+
+- Site/Portifólio: https://matheus-araujo.net.br
+- GitHub: https://github.com/matheusaraujo019
+- LinkedIn: https://www.linkedin.com/in/matheus-araujo-da-silva-9a082b388/
+
+---
+
+# 📄 Licença
+
+Este projeto está sob a licença MIT.
